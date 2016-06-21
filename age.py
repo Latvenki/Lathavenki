@@ -1,2 +1,1 @@
-age=input("How old are you?")
-Print "your age is",age
+Print "your age is 50"
