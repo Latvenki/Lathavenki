@@ -1,1 +1,1 @@
-Print "your age is 50"
+your age is 50
